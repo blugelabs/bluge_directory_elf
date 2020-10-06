@@ -29,7 +29,7 @@ Next one compiles this application.
 
 The last step is to combine these two pieces.  We want to take the index we built, and add it to the elf-executable we just compiled.  This can be done with the provided application.
 
-**NOTE**: this requires the host machien have the `objcopy` application installed.
+**NOTE**: this requires the host machine have the `objcopy` application installed.
 
 The provided `bluge_add_to_elf` command takes 3 arguments:
 
